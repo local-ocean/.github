@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://local-ocean.dev" target="_blank" rel="noopener noreferrer">
-    <img width="160" height="160" src="../assets/local-ocean.png" alt="Local Ocean logo">
+    <img width="160" height="160" src="https://local-ocean.dev/local-ocean.png" alt="Local Ocean logo">
   </a>
 </p>
 
